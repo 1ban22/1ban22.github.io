@@ -19,8 +19,8 @@ locale                   : "en-US"
 title                    : "1ban22"
 title_separator          : "since 2020-03"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Dukyung"
+description              : "since 2020-03"
 url                      : # the base hostname & protocol for your site e.g. "https://1ban22.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -117,7 +117,7 @@ author:
       # url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      # url: "https://instagram.com/dudu_0109?igshid=3mzgk1v9dbl"
 
 # Site Footer
 footer:
